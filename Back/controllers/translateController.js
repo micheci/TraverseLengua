@@ -13,7 +13,7 @@ const getTranslate = async (req, res) => {
     try {
         const url = process.env.API_URL;
         const data = {
-          file: 'https://reactionvids.s3.us-east-2.amazonaws.com/3b9d2585-4b6c-441a-aaab-7bbd2549cb14.mp4',
+          file: 'https://streamable.com/1g9v91',
           language: 'es'
         };
     
