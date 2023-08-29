@@ -13,8 +13,8 @@ const getTranslate = async (req, res) => {
     try {
         const url = process.env.API_URL;
         const data = {
-          file: 'https://streamable.com/1g9v91',
-          language: 'es'
+          file: 'https://videosxd.s3.us-east-2.amazonaws.com/3+Tips+to+Learn+Coding+(In+Hindi)+(1).mp4',
+          language: 'en'
         };
     
         const config = {
